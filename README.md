@@ -14,22 +14,30 @@ N/a
 
 ## Installation
 
-- Nothing needed to run code other than vs.code
+- Nothing needed be installed other than vs code to run application.
 
 - Clone the following repository and run index.html.
 
 ## Usage
 
-to use this Webpage there are 3 links in order to navigate to your wanted section. In this webpage we go over 3 different topics to help with such topics.
+To use this web page select generate password.
 
-![Website screenshot](/assets/images/img-1)
-![Website screenshot](/assets/images/img-2)
-![Website screenshot](/assets/images/img-3)
+After selecting button application will ask for desired length.
+
+A few more prompts will ask if you want to include other types of characters.
+After answering all prompts with proper inputs, generator will then display generated pass word that user could then copy/paste.
+
+
+![Website screenshot](./assets/images/img-1.PNG)
+![Website screenshot](/assets/images/img-2.PNG)
+![Website screenshot](/assets/images/img-3.PNG)
 
 
 ## Deployment
 
+Repo: https://github.com/devv-nunn/Random-Number-Generator
 
+GitPage: 
 
 ## Credits
 
