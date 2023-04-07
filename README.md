@@ -1,5 +1,12 @@
 # Marketing Branding Tool 
 
+## Author
+
+Devin Nunez
+
+Email: devv-nunn@gmail.com
+git: https://github.com/devv-nunn
+
 ## Description
 
 In this project we will generate a random password with a length of the users choice. There are character criterias that can be added to the generated password such as lowercase, upppercase, numerical values, and/or special characters. 
@@ -37,7 +44,13 @@ After answering all prompts with proper inputs, generator will then display gene
 
 Repo: https://github.com/devv-nunn/Random-Number-Generator
 
-GitPage: 
+GitPage: https://devv-nunn.github.io/Random-Number-Generator/
+
+# Tech Stack
+
+HTML
+CSS
+JavaScript
 
 ## Credits
 
