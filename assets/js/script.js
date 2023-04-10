@@ -21,8 +21,8 @@ function generatePassword(){
   // prompt that ask user to include certain type of character and stores users respones.
   // user input error handling added as well
   var passwordLength = prompt(message);
-  if(passwordLength < 8){
-    alert("Password length must be greater than eight");
+  if(passwordLength < 8 || passwordLength !== parseInt(passwordLength, 10)){
+    alert("Password length must be greater than eight and or numbers only.");
     passwordLength = prompt(message);
   }
 
